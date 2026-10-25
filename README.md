@@ -16,7 +16,7 @@
 Windows（PowerShell）：
 
 ```powershell
-git clone https://github.com/<你的用户名>/dsh-session-notes.git
+git clone https://github.com/lidengbo/dsh-session-notes.git
 cd dsh-session-notes
 powershell -NoProfile -ExecutionPolicy Bypass -File .\install.ps1
 ```
@@ -26,7 +26,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\install.ps1
 macOS / Linux：
 
 ```bash
-git clone https://github.com/<你的用户名>/dsh-session-notes.git
+git clone https://github.com/lidengbo/dsh-session-notes.git
 cd dsh-session-notes
 ./install.sh
 ```
