@@ -1,0 +1,4 @@
+﻿# 统一换行，避免 Windows 上 clone 出来的 .sh 变成 CRLF 在 Linux/macOS 跑不起来
+* text=auto
+*.sh  text eol=lf
+*.ps1 text eol=crlf
